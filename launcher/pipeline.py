@@ -270,7 +270,7 @@ def find_vs():
                               "Microsoft.VisualStudio.Component.VC.Tools.x86.x64", "-property", "installationPath"],
                              capture_output=True, text=True, creationflags=CREATE_NO_WINDOW).stdout
         candidates += [line.strip() for line in out.splitlines() if line.strip()]
-    candidates += [r"D:\VisualStudio\2022", r"C:\Program Files\Microsoft Visual Studio\2022\Community"]
+    candidates.append(r"C:\Program Files\Microsoft Visual Studio\2022\Community")
     for c in candidates:
         if (Path(c) / "VC" / "Auxiliary" / "Build" / "vcvars64.bat").is_file():
             return c

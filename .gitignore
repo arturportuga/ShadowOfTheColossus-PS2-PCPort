@@ -1,0 +1,14 @@
+# Gerados e locais
+__pycache__/
+launcher/exe/
+*.log
+launcher.json
+medicoes/
+medir.txt
+dist/
+compilador/
+# Nunca: dados do jogo
+*.iso
+*.state
+*.bin
+*.ps2

@@ -1,4 +1,4 @@
-# Shadow of the Colossus — PS2 — Porte nativo para PC
+# Shadow of the Colossus — PS2 — PC Native Port
 
 **[Português](#português) · [English](#english)**
 

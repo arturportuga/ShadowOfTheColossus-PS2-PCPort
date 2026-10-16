@@ -35,7 +35,6 @@ VOCÊ PRECISA DE
   - O ISO europeu (PAL) v1.00, código SCES-53326. A versão americana não funciona.
   - Windows 10/11 64-bit e um processador com AVX2 (quase todos de 2015 para cá).
   - 8 GB de RAM (16 GB é mais folgado), ~12 GB livres no disco e internet na primeira vez.
-  Não precisa instalar nada: nem Python, nem Git, nem Visual Studio.
 
 COMO USAR
   1. Extraia o zip numa pasta com caminho curto, fora do OneDrive (ex.: C:\\Jogos\\SotC).
@@ -77,7 +76,6 @@ YOU NEED
   - The European (PAL) v1.00 ISO, SCES-53326. The US version does not work.
   - Windows 10/11 64-bit and a CPU with AVX2 (almost every CPU since 2015).
   - 8 GB of RAM (16 GB is more comfortable), ~12 GB free and internet the first time.
-  Nothing to install: no Python, no Git, no Visual Studio.
 
 HOW TO USE
   1. Extract the zip to a short path outside OneDrive (e.g. C:\\Games\\SotC).

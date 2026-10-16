@@ -1,9 +1,9 @@
-# Shadow of the Colossus — PS2 → PC
+# Shadow of the Colossus — PS2 — Porte nativo para PC
 
 **[Português](#português) · [English](#english)**
 
-> Projeto de fãs, não oficial. Nada do jogo é distribuído aqui: nem ISO, nem arquivos do disco, nem BIOS.
-> Fan project, unofficial. No game data is distributed here: no ISO, no disc files, no BIOS.
+> Projeto por fã, não oficial. Nenhum conteúdo com direitos autorais é distribuído aqui.
+> Fan project, unofficial. No copyrighted content is distributed here.
 
 ---
 
